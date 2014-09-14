@@ -31,6 +31,7 @@ charr <- c("one", "two", "three", "four", "five", "six", "seven", "eight", "nine
 overandover <- rep("example", length(charr))
 print(overandover)
 #9
+x <- c((-b + sqrt(b ^ 2) - (4 * a * c)) / (2*a), (-b - sqrt(b ^ 2) - (4 * a * c)) / (2*a))
 #10
 vector <- 1:10
 mean(vector)
